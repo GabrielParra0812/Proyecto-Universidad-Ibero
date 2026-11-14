@@ -1,0 +1,3 @@
+.login { max-width: 23.75rem; margin: 3.75rem auto; padding: 0 1.25rem; text-align: center; }
+.login form { text-align: left; }
+.login__logo { display: inline-block; margin-bottom: 1.75rem; font: 700 1.25rem var(--font-title); color: var(--blue); text-decoration: none; border: 2px solid var(--accent); padding: 0.125rem 0.625rem; }

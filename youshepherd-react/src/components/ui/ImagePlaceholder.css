@@ -1,0 +1,9 @@
+.placeholder {
+  position: relative; min-height: 13.75rem; display: flex; align-items: center; justify-content: center;
+  background-color: var(--gray-50); border: 2px solid var(--gray-500); color: var(--gray-700); font-size: 0.875rem;
+  background-image:
+    linear-gradient(to top right, transparent calc(50% - 1px), var(--gray-500), transparent calc(50% + 1px)),
+    linear-gradient(to top left, transparent calc(50% - 1px), var(--gray-500), transparent calc(50% + 1px));
+}
+.placeholder span { background: var(--gray-50); padding: 0.125rem 0.5rem; }
+.placeholder--small { min-height: 13.75rem; }

@@ -1,0 +1,2 @@
+.price { font: 700 2rem var(--font-title); color: var(--blue); }
+.price small { font: 400 0.875rem var(--font-body); color: var(--gray-700); }

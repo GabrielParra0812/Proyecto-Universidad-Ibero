@@ -1,0 +1,3 @@
+.feature-row { display: flex; gap: 2.5rem; align-items: center; flex-wrap: wrap; margin-bottom: 3rem; }
+.feature-row > * { flex: 1 1 18.75rem; }
+.feature-row--reverse { flex-direction: row-reverse; }

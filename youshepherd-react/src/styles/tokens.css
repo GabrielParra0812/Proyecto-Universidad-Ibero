@@ -1,0 +1,19 @@
+/* Paleta del documento: azul profundo, blanco, grises claros y acento cálido (dorado) */
+:root {
+  --blue: #0b2a5b;
+  --blue-dark: #071d40;
+  --blue-soft: #e6edf8;
+  --accent: #f2a900;
+  --accent-dark: #c98a00;
+  --white: #ffffff;
+  --gray-50: #f4f6f9;
+  --gray-200: #d5dbe4;
+  --gray-500: #66758c;   /* bordes de campos: contraste >= 3:1 (WCAG 1.4.11) */
+  --gray-700: #3d4a5e;   /* texto secundario: contraste >= 4.5:1 (WCAG 1.4.3) */
+  --text: #14202e;
+
+  --font-title: 'Poppins', Arial, sans-serif;
+  --font-body: 'Inter', system-ui, Arial, sans-serif;
+  --radius: 0.5rem;
+  --max-width: 68.75rem;
+}

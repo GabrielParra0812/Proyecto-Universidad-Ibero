@@ -1,0 +1,4 @@
+.card { display: block; border: 2px solid var(--gray-500); border-radius: var(--radius); padding: 1.25rem; background: var(--white); }
+.card--link { text-decoration: none; }
+.card--link:hover { border-color: var(--blue); }
+.card--highlighted { border: 4px solid var(--blue); }

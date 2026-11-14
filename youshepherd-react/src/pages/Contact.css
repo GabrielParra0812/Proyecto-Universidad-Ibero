@@ -1,0 +1,2 @@
+.contact { display: flex; gap: 2.5rem; flex-wrap: wrap; align-items: flex-start; }
+.contact__form, .contact__info { flex: 1 1 20rem; }
