@@ -37,6 +37,8 @@ export const faqs = [
 
 export const team = [
   { name: 'Gabriel Andrés Parra Rocha', role: 'Fundador y desarrollador', photo: '/img/equipo-foto-1.png' },
+  { name: 'Natanael Yesic Perea Alvarez', role: 'Fundador y desarrollador', photo: '/img/equipo-foto-1.png' },
+  { name: 'Eliezer David Parra Rocha', role: 'Fundador y desarrollador', photo: '/img/equipo-foto-1.png' }
 ];
 
 export const values = [
