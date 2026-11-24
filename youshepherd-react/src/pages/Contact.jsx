@@ -14,7 +14,7 @@ export default function Contact() {
           <h3>¿Qué sigue?</h3>
           <ol>
             <li>Recibimos tu solicitud.</li>
-            <li>Te escribimos en 24 horas.</li>
+            <li>Te escribimos pronto.</li>
             <li>Agendamos una demo.</li>
           </ol>
         </div>

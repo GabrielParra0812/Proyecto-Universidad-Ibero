@@ -11,7 +11,7 @@ export default function Pricing() {
         {plans.map((p) => <PricingCard key={p.name} {...p} />)}
       </div>
       <h2>Preguntas frecuentes</h2>
-      {faqs.map((q) => <FaqItem key={q} question={q} />)}
+      {faqs.map((f) => <FaqItem key={f.q} question={f.q} answer={f.a} />)}
     </Section>
   );
 }

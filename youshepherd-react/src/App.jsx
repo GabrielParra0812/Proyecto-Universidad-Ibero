@@ -30,7 +30,7 @@ export default function App() {
         </Route>
         <Route path="/login" element={<Login />} />
       </Routes>
-      <div className="wireframe-tag">Wireframe · baja fidelidad</div>
+      <div className="wireframe-tag">Proyecto académico</div>
     </HashRouter>
   );
 }

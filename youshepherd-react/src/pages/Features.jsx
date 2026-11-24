@@ -9,7 +9,7 @@ export default function Features() {
       <h1>Funcionalidades</h1>
       <p className="muted" style={{ marginBottom: "2.5rem" }}>Todo lo que necesitas para administrar tu iglesia.</p>
       {features.map((f, i) => (
-        <FeatureRow key={f.title} title={f.title} text={f.text} reverse={i % 2 === 1} />
+        <FeatureRow key={f.title} title={f.title} text={f.text} image={f.image} reverse={i % 2 === 1} />
       ))}
       <div className="center"><Button to="/contacto">Solicitar demo</Button></div>
     </Section>

@@ -5,7 +5,7 @@ export default function Footer() {
   return (
     <footer className="footer">
       <div className="container footer__inner">
-        <span>© YouShepherd · Logo</span>
+        <span>© 2026 YouShepherd</span>
         <span>
           <Link to="/funcionalidades">Funcionalidades</Link> · <Link to="/precios">Precios</Link> ·{' '}
           <Link to="/nosotros">Nosotros</Link> · <Link to="/contacto">Contacto</Link>
